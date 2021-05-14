@@ -115,7 +115,8 @@ namespace Assestment_task
             }
             
 
-            Console.WriteLine();
+            
+            Console.WriteLine("Sending e-mail... ");
             Console.WriteLine();
         }
     }
