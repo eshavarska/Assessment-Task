@@ -1,0 +1,140 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\OneDrive - Shavarska DE\\Documents\\GitHub\\Assessment-Task\\Assestment task\\Assestment task.csproj": {}
+  },
+  "projects": {
+    "D:\\OneDrive - Shavarska DE\\Documents\\GitHub\\Assessment-Task\\Assestment task\\Assestment task.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\OneDrive - Shavarska DE\\Documents\\GitHub\\Assessment-Task\\Assestment task\\Assestment task.csproj",
+        "projectName": "Assestment task",
+        "projectPath": "D:\\OneDrive - Shavarska DE\\Documents\\GitHub\\Assessment-Task\\Assestment task\\Assestment task.csproj",
+        "packagesPath": "C:\\Users\\Elly\\.nuget\\packages\\",
+        "outputPath": "D:\\OneDrive - Shavarska DE\\Documents\\GitHub\\Assessment-Task\\Assestment task\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Elly\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "D:\\OneDrive - Shavarska DE\\Documents\\GitHub\\Assessment-Task\\EmailService\\EmailService.csproj": {
+                "projectPath": "D:\\OneDrive - Shavarska DE\\Documents\\GitHub\\Assessment-Task\\EmailService\\EmailService.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "AIM": {
+              "target": "Package",
+              "version": "[1.1.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\OneDrive - Shavarska DE\\Documents\\GitHub\\Assessment-Task\\EmailService\\EmailService.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\OneDrive - Shavarska DE\\Documents\\GitHub\\Assessment-Task\\EmailService\\EmailService.csproj",
+        "projectName": "EmailService",
+        "projectPath": "D:\\OneDrive - Shavarska DE\\Documents\\GitHub\\Assessment-Task\\EmailService\\EmailService.csproj",
+        "packagesPath": "C:\\Users\\Elly\\.nuget\\packages\\",
+        "outputPath": "D:\\OneDrive - Shavarska DE\\Documents\\GitHub\\Assessment-Task\\EmailService\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Elly\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "AIM": {
+              "target": "Package",
+              "version": "[1.1.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

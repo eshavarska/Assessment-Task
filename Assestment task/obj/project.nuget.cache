@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "pjlqhgObwKGZAziws4m7SjOG0VEgYqGwofb/2NkjbRIU0MaNTkaVZVZAJXRZ2I+ZGnbLEUq/FtRU8MzX8FtAMw==",
+  "success": true,
+  "projectFilePath": "D:\\OneDrive - Shavarska DE\\Documents\\GitHub\\Assessment-Task\\Assestment task\\Assestment task.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Elly\\.nuget\\packages\\aim\\1.1.0\\aim.1.1.0.nupkg.sha512",
+    "C:\\Users\\Elly\\.nuget\\packages\\system.security.cryptography.cng\\4.5.0\\system.security.cryptography.cng.4.5.0.nupkg.sha512",
+    "C:\\Users\\Elly\\.nuget\\packages\\system.security.cryptography.pkcs\\4.5.2\\system.security.cryptography.pkcs.4.5.2.nupkg.sha512"
+  ],
+  "logs": []
+}

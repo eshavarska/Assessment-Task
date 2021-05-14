@@ -1,0 +1,38 @@
+C:\Users\Elly\source\repos\Assestment task\Assestment task\bin\Debug\netcoreapp3.1\Assestment task.exe
+C:\Users\Elly\source\repos\Assestment task\Assestment task\bin\Debug\netcoreapp3.1\Assestment task.deps.json
+C:\Users\Elly\source\repos\Assestment task\Assestment task\bin\Debug\netcoreapp3.1\Assestment task.runtimeconfig.json
+C:\Users\Elly\source\repos\Assestment task\Assestment task\bin\Debug\netcoreapp3.1\Assestment task.runtimeconfig.dev.json
+C:\Users\Elly\source\repos\Assestment task\Assestment task\bin\Debug\netcoreapp3.1\Assestment task.dll
+C:\Users\Elly\source\repos\Assestment task\Assestment task\bin\Debug\netcoreapp3.1\Assestment task.pdb
+C:\Users\Elly\source\repos\Assestment task\Assestment task\obj\Debug\netcoreapp3.1\Assestment task.csprojAssemblyReference.cache
+C:\Users\Elly\source\repos\Assestment task\Assestment task\obj\Debug\netcoreapp3.1\Assestment task.AssemblyInfoInputs.cache
+C:\Users\Elly\source\repos\Assestment task\Assestment task\obj\Debug\netcoreapp3.1\Assestment task.AssemblyInfo.cs
+C:\Users\Elly\source\repos\Assestment task\Assestment task\obj\Debug\netcoreapp3.1\Assestment task.csproj.CoreCompileInputs.cache
+C:\Users\Elly\source\repos\Assestment task\Assestment task\obj\Debug\netcoreapp3.1\Assestment task.dll
+C:\Users\Elly\source\repos\Assestment task\Assestment task\obj\Debug\netcoreapp3.1\Assestment task.pdb
+C:\Users\Elly\source\repos\Assestment task\Assestment task\obj\Debug\netcoreapp3.1\Assestment task.genruntimeconfig.cache
+C:\Users\Elly\source\repos\Assestment task\Assestment task\bin\Debug\netcoreapp3.1\EmailService.dll
+C:\Users\Elly\source\repos\Assestment task\Assestment task\bin\Debug\netcoreapp3.1\EmailService.pdb
+C:\Users\Elly\source\repos\Assestment task\Assestment task\obj\Debug\netcoreapp3.1\Assestment task.csproj.CopyComplete
+C:\Users\Elly\source\repos\Assestment task\Assestment task\bin\Debug\netcoreapp3.1\AegisImplicitMail.dll
+C:\Users\Elly\source\repos\Assestment task\Assestment task\bin\Debug\netcoreapp3.1\System.Security.Cryptography.Pkcs.dll
+C:\Users\Elly\source\repos\Assestment task\Assestment task\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Cryptography.Pkcs.dll
+D:\OneDrive - Shavarska DE\Documents\GitHub\Assessment-Task\Assestment task\bin\Debug\netcoreapp3.1\Assestment task.exe
+D:\OneDrive - Shavarska DE\Documents\GitHub\Assessment-Task\Assestment task\bin\Debug\netcoreapp3.1\Assestment task.deps.json
+D:\OneDrive - Shavarska DE\Documents\GitHub\Assessment-Task\Assestment task\bin\Debug\netcoreapp3.1\Assestment task.runtimeconfig.json
+D:\OneDrive - Shavarska DE\Documents\GitHub\Assessment-Task\Assestment task\bin\Debug\netcoreapp3.1\Assestment task.runtimeconfig.dev.json
+D:\OneDrive - Shavarska DE\Documents\GitHub\Assessment-Task\Assestment task\bin\Debug\netcoreapp3.1\Assestment task.dll
+D:\OneDrive - Shavarska DE\Documents\GitHub\Assessment-Task\Assestment task\bin\Debug\netcoreapp3.1\Assestment task.pdb
+D:\OneDrive - Shavarska DE\Documents\GitHub\Assessment-Task\Assestment task\bin\Debug\netcoreapp3.1\AegisImplicitMail.dll
+D:\OneDrive - Shavarska DE\Documents\GitHub\Assessment-Task\Assestment task\bin\Debug\netcoreapp3.1\System.Security.Cryptography.Pkcs.dll
+D:\OneDrive - Shavarska DE\Documents\GitHub\Assessment-Task\Assestment task\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Cryptography.Pkcs.dll
+D:\OneDrive - Shavarska DE\Documents\GitHub\Assessment-Task\Assestment task\bin\Debug\netcoreapp3.1\EmailService.dll
+D:\OneDrive - Shavarska DE\Documents\GitHub\Assessment-Task\Assestment task\bin\Debug\netcoreapp3.1\EmailService.pdb
+D:\OneDrive - Shavarska DE\Documents\GitHub\Assessment-Task\Assestment task\obj\Debug\netcoreapp3.1\Assestment task.csprojAssemblyReference.cache
+D:\OneDrive - Shavarska DE\Documents\GitHub\Assessment-Task\Assestment task\obj\Debug\netcoreapp3.1\Assestment task.AssemblyInfoInputs.cache
+D:\OneDrive - Shavarska DE\Documents\GitHub\Assessment-Task\Assestment task\obj\Debug\netcoreapp3.1\Assestment task.AssemblyInfo.cs
+D:\OneDrive - Shavarska DE\Documents\GitHub\Assessment-Task\Assestment task\obj\Debug\netcoreapp3.1\Assestment task.csproj.CoreCompileInputs.cache
+D:\OneDrive - Shavarska DE\Documents\GitHub\Assessment-Task\Assestment task\obj\Debug\netcoreapp3.1\Assestment task.csproj.CopyComplete
+D:\OneDrive - Shavarska DE\Documents\GitHub\Assessment-Task\Assestment task\obj\Debug\netcoreapp3.1\Assestment task.dll
+D:\OneDrive - Shavarska DE\Documents\GitHub\Assessment-Task\Assestment task\obj\Debug\netcoreapp3.1\Assestment task.pdb
+D:\OneDrive - Shavarska DE\Documents\GitHub\Assessment-Task\Assestment task\obj\Debug\netcoreapp3.1\Assestment task.genruntimeconfig.cache
